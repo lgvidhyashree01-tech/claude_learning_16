@@ -1,0 +1,42 @@
+## What I Learnt From This Task
+
+1. Learned how to create reusable AI workflows using Claude Custom Skills.
+2. Learned how to build a custom stock-fundamental-research skill.
+3. Learned how Custom Skills eliminate the need to repeatedly paste long prompts.
+4. Learned how AI can automatically generate structured stock research reports.
+5. Learned how to analyze company fundamentals using AI.
+6. Learned how to review valuation metrics such as P/E ratio and P/B ratio.
+7. Learned how to evaluate company debt levels and financial health.
+8. Learned how to analyze promoter holding patterns.
+9. Learned how to interpret FII and DII ownership trends.
+10. Learned how to identify key risk factors affecting a company.
+11. Learned how to review ownership trends and business quality indicators.
+12. Learned how AI can generate stock analysis reports with charts and visualizations.
+13. Learned how to compare multiple stocks using a consistent framework.
+14. Learned how side-by-side stock comparisons highlight strengths and weaknesses.
+15. Learned how to perform data-driven stock research instead of relying on tips or opinions.
+16. Learned how reusable AI skills improve productivity and save time.
+17. Learned how to document and organize research findings effectively.
+
+## Tools Used
+
+1. Claude AI
+2. Claude Custom Skills
+3. stock-fundamental-research Custom Skill
+4. Stock Tickers (TCS, Infosys, Reliance, HDFC Bank, Tata Motors)
+5. Financial Data Sources
+6. Stock Research Reports
+7. Charts and Visualizations
+8. Git
+9. GitHub
+10. Day16 Folder
+11. day16.md File
+12. Screenshot Tool
+13. Markdown
+14. Web Browser
+15. GitHub Repository
+16. Version Control System
+17. Fundamental Analysis Framework
+18. Stock Comparison Reports
+19. Risk Analysis Reports
+20. Ownership Trend Analysis Reports
